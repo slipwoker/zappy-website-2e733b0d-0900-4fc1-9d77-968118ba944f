@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mr-duck-hub-2e733b0d.zappy5.app/sitemap.xml
