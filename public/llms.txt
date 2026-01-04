@@ -1,6 +1,4 @@
-# Mr Duck Hub — Generative Engine Optimization Map
-
-> A משחקים/גיימינג business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,19 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Mr Duck Hub
-Mr Duck Hub is a business in the משחקים/גיימינג industry.
-
-## Services/Products
-- תמיכה טכנית
-- מוקד שירות
-
-## Target Audience
-- חובבי רובלוקס
-
-## Industry
-משחקים/גיימינג
-
+## About Business
 ---
 
 # Additional Resources
