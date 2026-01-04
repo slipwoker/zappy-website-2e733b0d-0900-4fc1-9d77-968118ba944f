@@ -1,61 +1,50 @@
-# Mr Duck Hub — Generative Engine Optimization Map
-
-> A משחקים/גיימינג business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com
+https://mr-duck-hub.zappy5.app
 גלו תמיכה טכנית מקצועית לרובלוקס עם Mr Duck Hub. פתרונות מהירים ושירות איכותי לכל שאלה.
 
 ### שירותים
-https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/services
+https://mr-duck-hub.zappy5.app/services
 תמיכה טכנית רובלוקס בעברית ומוקד שירות מקצועי. פתרונות מהירים לכל בעיה טכנית במשחק.
 
 ### אודות
-https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/about
+https://mr-duck-hub.zappy5.app/about
 גלו את הסיפור מאחורי Mr Duck Hub - המומחים לתמיכה טכנית ברובלוקס בישראל. מסירות, מקצועיות, ושירות ללא פשרות.
 
 ### צור קשר
-https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/contact
+https://mr-duck-hub.zappy5.app/contact
 צרו קשר עם Mr Duck Hub לתמיכה טכנית ברובלוקס. זמינים 24/7 לכל שאלה או בעיה. מענה מהיר ושירות מקצועי.
+
+### צור קשר
+https://mr-duck-hub.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/privacy
+https://mr-duck-hub.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/terms
+https://mr-duck-hub.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/accessibility
+https://mr-duck-hub.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Mr Duck Hub
-Mr Duck Hub is a business in the משחקים/גיימינג industry.
-
-## Services/Products
-- תמיכה טכנית
-- מוקד שירות
-
-## Target Audience
-- חובבי רובלוקס
-
-## Industry
-משחקים/גיימינג
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/robots.txt
+- **Sitemap**: https://mr-duck-hub.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mr-duck-hub.zappy5.app/robots.txt
