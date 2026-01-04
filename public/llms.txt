@@ -1,47 +1,61 @@
-# Business — Generative Engine Optimization Map
+# Mr Duck Hub — Generative Engine Optimization Map
+
+> A משחקים/גיימינג business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://mr-duck-hub.zappy5.app
 גלו תמיכה טכנית מקצועית לרובלוקס עם Mr Duck Hub. פתרונות מהירים ושירות איכותי לכל שאלה.
 
 ### שירותים
-https://example.com/services
+https://mr-duck-hub.zappy5.app/services
 תמיכה טכנית רובלוקס בעברית ומוקד שירות מקצועי. פתרונות מהירים לכל בעיה טכנית במשחק.
 
 ### אודות
-https://example.com/about
+https://mr-duck-hub.zappy5.app/about
 גלו את הסיפור מאחורי Mr Duck Hub - המומחים לתמיכה טכנית ברובלוקס בישראל. מסירות, מקצועיות, ושירות ללא פשרות.
 
 ### צור קשר
-https://example.com/contact
+https://mr-duck-hub.zappy5.app/contact
 צרו קשר עם Mr Duck Hub לתמיכה טכנית ברובלוקס. זמינים 24/7 לכל שאלה או בעיה. מענה מהיר ושירות מקצועי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://mr-duck-hub.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://mr-duck-hub.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://mr-duck-hub.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Mr Duck Hub
+Mr Duck Hub is a business in the משחקים/גיימינג industry.
+
+## Services/Products
+- תמיכה טכנית
+- מוקד שירות
+
+## Target Audience
+- חובבי רובלוקס
+
+## Industry
+משחקים/גיימינג
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://mr-duck-hub.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mr-duck-hub.zappy5.app/robots.txt
