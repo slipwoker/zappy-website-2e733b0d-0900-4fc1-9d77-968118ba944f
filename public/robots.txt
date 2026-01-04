@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mr-duck-hub.zappy5.app/sitemap.xml
+Sitemap: https://zappy-site-2e733b0d-0900-4fc1-9d77.onrender.com/sitemap.xml
